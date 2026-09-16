@@ -1,3 +1,5 @@
+vaultpay-zero-trust-api/diagrams/architecture.png
+vaultpay-zero-trust-api/diagrams/architecture.png
 # VaultPay Ltd - Zero-Trust Payments API
 
 > **Client:** VaultPay Ltd - London Fintech (FCA Authorised Payments Institution)  
