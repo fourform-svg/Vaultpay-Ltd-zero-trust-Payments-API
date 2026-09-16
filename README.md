@@ -105,4 +105,4 @@ curl -X POST $API/payments -H "Authorization: Bearer $TOKEN" -H "Idempotency-Key
 
 ---
 **Architect:** Toyin Odesanya | Specialty: Fintech Zero Trust  
-**Repo:** github.com/YOUR_USERNAME/vaultpay-zero-trust-api
+**Repo:** github.com/fourform-svg/vaultpay-zero-trust-api
